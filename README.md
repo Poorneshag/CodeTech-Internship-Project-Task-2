@@ -8,3 +8,4 @@ MENTOR NAME:-Vaishali
 
 
 # OUTPUT LINK
+https://github.com/Poorneshag/CodeTech-Internship-Project-Task-2/blob/c2937c2616204372068a5ad3701c1f3ba75b4d47/Rest%20Api%20Client%20output.png
